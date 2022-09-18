@@ -10,7 +10,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="#01372c">  
-    <link rel="canonical" href="https://amsale.com/">
+    <link rel="canonical" href="https://nayyse.com/">
     <link rel="icon" type="image/png" href="//cdn.shopify.com/s/files/1/0032/0562/7968/t/35/assets/favicon-32x32.png?v=136368361489626347391661861457">
 
     <script>
@@ -21,13 +21,7 @@
     head.appendChild(script);
     </script><script type="text/javascript" src="https://181302.tracking.hyros.com/v1/lst/universal-script?ph=9ce99df8788751883d56ec077d783be0e2385d3244728ba58b2543d3f3c3fb7b&amp;tag=!tracking"></script>    
     
-    <!-- Google Tag Manager -->
-    <script>
-      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
-      var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
-      j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PR7KWKJ');
-    </script>
-    <!-- End Google Tag Manager -->
+   
 
     
       <script> dataLayer.push({'event':'loggedIn','loggedinstatus':'not logged in'}); </script>
@@ -37,26 +31,20 @@
     <script>
       (function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"25066876"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");
     </script>
-	  <!-- END BING Tag --><title>Wedding Dresses, Bridal Gowns and Bridesmaid Dresses by Amsale</title><meta name="description" content="Discover the designer bridal collection from Amsale. Effortless, understated glamour with a true sense of timeless beauty."><!-- /snippets/social-meta-tags.liquid -->
+	  <!-- END BING Tag --><title>Wedding Dresses, Bridal Gowns and Bridesmaid Dresses by nayyse</title><meta name="description" content="Discover the designer bridal collection from nayyse. Effortless, understated glamour with a true sense of timeless beauty."><!-- /snippets/social-meta-tags.liquid -->
 
 
 
 
-<meta property="og:site_name" content="Amsale">
-<meta property="og:url" content="https://amsale.com/">
-<meta property="og:title" content="Wedding Dresses, Bridal Gowns and Bridesmaid Dresses by Amsale">
+<meta property="og:site_name" content="nayyse">
+<meta property="og:url" content="https://nayyse.com/">
+<meta property="og:title" content="Wedding Dresses, Bridal Gowns and Bridesmaid Dresses by nayyse">
 <meta property="og:type" content="website">
-<meta property="og:description" content="Discover the designer bridal collection from Amsale. Effortless, understated glamour with a true sense of timeless beauty.">
+<meta property="og:description" content="Discover the designer bridal collection from nayyse. Effortless, understated glamour with a true sense of timeless beauty.">
 
 
 
 
-
-  <meta name="twitter:site" content="@AmsaleBridal">
-
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Wedding Dresses, Bridal Gowns and Bridesmaid Dresses by Amsale">
-<meta name="twitter:description" content="Discover the designer bridal collection from Amsale. Effortless, understated glamour with a true sense of timeless beauty.">
 
 
     <!-- STYLESHEETS -->
@@ -65,20 +53,20 @@
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.9.0/slick.min.css"><link href="//cdn.shopify.com/s/files/1/0032/0562/7968/t/35/assets/theme_custom_fonts.scss.css?v=150191208708726463681661861457" rel="stylesheet" type="text/css" media="all">
     <link href="//cdn.shopify.com/s/files/1/0032/0562/7968/t/35/assets/theme.scss.css?v=7574114570899966581661882596" rel="stylesheet" type="text/css" media="all">
     <!-- CODEBOXX CUSTOM OVERRIDE CSS -->    
-    <link href="//cdn.shopify.com/s/files/1/0032/0562/7968/t/35/assets/codeboxx-amsale-main.min.css?v=12462643836545999521663188413" rel="stylesheet" type="text/css" media="all">
+    <link href="//cdn.shopify.com/s/files/1/0032/0562/7968/t/35/assets/codeboxx-nayyse-main.min.css?v=12462643836545999521663188413" rel="stylesheet" type="text/css" media="all">
     <!-- Import stylesheets per Template type -->
     
-    <link href="//cdn.shopify.com/s/files/1/0032/0562/7968/t/35/assets/amsale-homepage-main.min.css?v=158372799435149084501662491882" rel="stylesheet" type="text/css" media="all">
+    <link href="//cdn.shopify.com/s/files/1/0032/0562/7968/t/35/assets/nayyse-homepage-main.min.css?v=158372799435149084501662491882" rel="stylesheet" type="text/css" media="all">
 
 
-<link href="//cdn.shopify.com/s/files/1/0032/0562/7968/t/35/assets/amsale-collection-main.min.css?v=23123944336012217481662490179" rel="stylesheet" type="text/css" media="all">
+<link href="//cdn.shopify.com/s/files/1/0032/0562/7968/t/35/assets/nayyse-collection-main.min.css?v=23123944336012217481662490179" rel="stylesheet" type="text/css" media="all">
     
 
 
 
 
     <!-- SCRIPTS TAGS -->
-    <script src="//d1liekpayvooaz.cloudfront.net/apps/customizery/customizery.js?shop=amsale-com.myshopify.com"></script>
+    <script src="//d1liekpayvooaz.cloudfront.net/apps/customizery/customizery.js?shop=nayyse-com.myshopify.com"></script>
     <script>
       var theme = {
         strings: {
@@ -112,7 +100,7 @@
     <!--[if lte IE 9]><script src="//cdn.shopify.com/s/files/1/0032/0562/7968/t/35/assets/vendor.js?v=48755995921568206671661861457"></script><![endif]-->
     <!--[if (gt IE 9)|!(IE)]><!--><script src="//cdn.shopify.com/s/files/1/0032/0562/7968/t/35/assets/theme.js?v=77220696214753394191661861457" defer="defer"></script><!--<![endif]-->
     <!--[if lte IE 9]><script src="//cdn.shopify.com/s/files/1/0032/0562/7968/t/35/assets/theme.js?v=77220696214753394191661861457"></script><![endif]-->
-<!-- Hotjar Tracking Code for www.amsale.com -->
+<!-- Hotjar Tracking Code for www.nayyse.com -->
 <script>
     (function(h,o,t,j,a,r){
         h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
@@ -126,14 +114,14 @@
     <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/3205627968/digital_wallets/dialog">
 <meta name="shopify-checkout-api-token" content="b9a9bedd1ce63ffed75453c654af2a8f">
 <meta id="in-context-paypal-metadata" data-shop-id="3205627968" data-venmo-supported="true" data-environment="production" data-locale="en_US" data-paypal-v4="true" data-currency="USD">
-<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":3205627968,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/3205627968","merchantName":"Amsale","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex"],"total":{"type":"pending","label":"Amsale","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}</script>
-<script id="shopify-features" type="application/json">{"accessToken":"b9a9bedd1ce63ffed75453c654af2a8f","betas":["rich-media-storefront-analytics"],"domain":"amsale.com","predictiveSearch":true,"shopId":3205627968,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js?v=2","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js?v=2","locale":"en"}</script>
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":3205627968,"countryCode":"US","currencyCode":"USD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/3205627968","merchantName":"nayyse","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex"],"total":{"type":"pending","label":"Amsale","amount":"1.00"},"shopifyPaymentsEnabled":true,"supportsSubscriptions":true}</script>
+<script id="shopify-features" type="application/json">{"accessToken":"b9a9bedd1ce63ffed75453c654af2a8f","betas":["rich-media-storefront-analytics"],"domain":"nayyse.com","predictiveSearch":true,"shopId":3205627968,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js?v=2","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js?v=2","locale":"en"}</script>
 <script>var Shopify = Shopify || {};
-Shopify.shop = "amsale-com.myshopify.com";
+Shopify.shop = "nayyse-com.myshopify.com";
 Shopify.locale = "en";
 Shopify.currency = {"active":"USD","rate":"1.0"};
 Shopify.country = "US";
-Shopify.theme = {"name":"Theme Amsale Ecomm Release 0.4.7","id":124646391868,"theme_store_id":null,"role":"main"};
+Shopify.theme = {"name":"Theme nayyse Ecomm Release 0.4.7","id":124646391868,"theme_store_id":null,"role":"main"};
 Shopify.theme.handle = "null";
 Shopify.theme.style = {"id":null,"handle":null};
 Shopify.cdnHost = "cdn.shopify.com";
@@ -145,7 +133,7 @@ Shopify.routes.root = "/";</script>
 window.ShopifyPay.apiHost = "shop.app\/pay";</script>
 <script>(function() {
   function asyncLoad() {
-    var urls = ["https:\/\/api.optmstr.com\/shopify\/embed\/?shop=amsale-com.myshopify.com","\/\/d1liekpayvooaz.cloudfront.net\/apps\/customizery\/customizery.js?shop=amsale-com.myshopify.com","https:\/\/assets.smartwishlist.webmarked.net\/static\/v6\/smartwishlist.js?shop=amsale-com.myshopify.com","https:\/\/chimpstatic.com\/mcjs-connected\/js\/users\/5ed5ea78dc4ed19fd2ebb96ce\/1f4b09c2f4be3f7e43fe61b93.js?shop=amsale-com.myshopify.com","https:\/\/cdn.isforma.com\/11-23-7d674914\/static\/js\/main.7d674914.js?shop=amsale-com.myshopify.com","https:\/\/assets1.adroll.com\/shopify\/latest\/j\/shopify_rolling_bootstrap_v2.js?adroll_adv_id=QCHUNNYX2JHXNAOBDQP3TD\u0026adroll_pix_id=RWUDZYSILVATTDUASYOZLM\u0026shop=amsale-com.myshopify.com","https:\/\/cdn.isforma.com\/05-12-10b2b4b8\/static\/js\/main.10b2b4b8.js?shop=amsale-com.myshopify.com","https:\/\/cdn.isforma.com\/05-12-10b2b4b8\/static\/js\/main.10b2b4b8.js?shop=amsale-com.myshopify.com","https:\/\/intg.snapchat.com\/shopify\/shopify-scevent-init.js?id=e9745b12-ba64-49e3-aa27-e25543f19309\u0026shop=amsale-com.myshopify.com","https:\/\/cdn.shopify.com\/s\/files\/1\/0032\/0562\/7968\/t\/19\/assets\/affirmShopify.js?v=1655409820\u0026shop=amsale-com.myshopify.com","https:\/\/www.dwin1.com\/19038.js?shop=amsale-com.myshopify.com","https:\/\/static.shareasale.com\/json\/shopify\/deduplication.js?shop=amsale-com.myshopify.com","https:\/\/cdn.isforma.com\/05-12-10b2b4b8\/static\/js\/main.10b2b4b8.js?shop=amsale-com.myshopify.com","https:\/\/cdn.shopify.com\/s\/files\/1\/0032\/0562\/7968\/t\/19\/assets\/sca.storelocator_scripttag.js?v=1660582867\u0026shop=amsale-com.myshopify.com"];
+    var urls = ["https:\/\/api.optmstr.com\/shopify\/embed\/?shop=nayyse-com.myshopify.com","\/\/d1liekpayvooaz.cloudfront.net\/apps\/customizery\/customizery.js?shop=nayyse-com.myshopify.com","https:\/\/assets.smartwishlist.webmarked.net\/static\/v6\/smartwishlist.js?shop=nayyse-com.myshopify.com","https:\/\/chimpstatic.com\/mcjs-connected\/js\/users\/5ed5ea78dc4ed19fd2ebb96ce\/1f4b09c2f4be3f7e43fe61b93.js?shop=nayyse-com.myshopify.com","https:\/\/cdn.isforma.com\/11-23-7d674914\/static\/js\/main.7d674914.js?shop=nayyse-com.myshopify.com","https:\/\/assets1.adroll.com\/shopify\/latest\/j\/shopify_rolling_bootstrap_v2.js?adroll_adv_id=QCHUNNYX2JHXNAOBDQP3TD\u0026adroll_pix_id=RWUDZYSILVATTDUASYOZLM\u0026shop=nayyse-com.myshopify.com","https:\/\/cdn.isforma.com\/05-12-10b2b4b8\/static\/js\/main.10b2b4b8.js?shop=amsale-com.myshopify.com","https:\/\/cdn.isforma.com\/05-12-10b2b4b8\/static\/js\/main.10b2b4b8.js?shop=amsale-com.myshopify.com","https:\/\/intg.snapchat.com\/shopify\/shopify-scevent-init.js?id=e9745b12-ba64-49e3-aa27-e25543f19309\u0026shop=amsale-com.myshopify.com","https:\/\/cdn.shopify.com\/s\/files\/1\/0032\/0562\/7968\/t\/19\/assets\/affirmShopify.js?v=1655409820\u0026shop=amsale-com.myshopify.com","https:\/\/www.dwin1.com\/19038.js?shop=amsale-com.myshopify.com","https:\/\/static.shareasale.com\/json\/shopify\/deduplication.js?shop=amsale-com.myshopify.com","https:\/\/cdn.isforma.com\/05-12-10b2b4b8\/static\/js\/main.10b2b4b8.js?shop=amsale-com.myshopify.com","https:\/\/cdn.shopify.com\/s\/files\/1\/0032\/0562\/7968\/t\/19\/assets\/sca.storelocator_scripttag.js?v=1660582867\u0026shop=amsale-com.myshopify.com"];
     for (var i = 0; i < urls.length; i++) {
       var s = document.createElement('script');
       s.type = 'text/javascript';
